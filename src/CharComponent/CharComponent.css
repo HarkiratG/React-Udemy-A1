@@ -1,0 +1,9 @@
+.CharComponent {
+  /* this is css code so no need to enclose in ' ' */
+  display   : inline-block;
+  padding   : 0px 10px;
+  text-align: center;
+  margin    : 10px 10px;
+  border    : 1px solid #f0f;
+  box-shadow: 0 0px 5px #0f0;
+}
